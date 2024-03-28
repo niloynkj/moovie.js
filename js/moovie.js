@@ -1,4 +1,4 @@
-
+ 
 /*-------------------------
 moovie.js - HTML5 Media player made for movies
 Made by: Bruno Vieira
